@@ -38,3 +38,6 @@ A responsive React-based Career Dashboard to track job applications with authent
 ```bash
 npm install
 npm run dev
+
+## Author
+Priya Kumari
